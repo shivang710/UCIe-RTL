@@ -1,2 +1,2 @@
 # UCIe-RTL
-UCIe-RTL repository
+UCIe Design Team Github repository
